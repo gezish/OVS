@@ -1,0 +1,28 @@
+ADMIN PANEL LOGIN DETAILS
+http://localhost/votesystem/admin/index.php
+	Username: henokt
+	Password: asd123!@#
+
+voters PANEL LOGIN DETAILS
+		 **To Create New Voter's ID and Password- Login to Admin Panel, Check Voters List and Add New Account.
+		then open using  "http://localhost/votesystem/"
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "votesystem1" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+***for  the database connection check "$conn = new mysqli('localhost', 'root', 'asd123!@#', 'votesystem1')"
+	in "C:\AppServ\www\votesystem\includes" and "C:\AppServ\www\votesystem\admin\includes" .
+	if your root has no password delete "asd123!@#" and make it empty.
+	example: "$conn = new mysqli('localhost', 'root', '', 'votesystem1')"***
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS email:bjaalala@gmail.com*****
+
+			
+
+#THANK YOU FOR DOWNLOADING
